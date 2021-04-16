@@ -8,7 +8,7 @@
 </head>
 <body>
 <h3>Log-In</h3>
-github edit
+github edit loveit 
 <br/>  
 <form action="/login" method="post">  
 Email:<input type="text" name="email"/><br/><br/>  
